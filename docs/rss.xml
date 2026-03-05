@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>.dasho</title>
+<link>https://dasho.dev</link>
+<description>Dasho's personal blog, funhouse, and digital junkyard. A mix of technical deep-dives, personal essays, and general weirdness.</description>
+<language>en-us</language>
+<lastBuildDate>Thu, 05 Mar 2026 11:55:39 +0000</lastBuildDate>
+<atom:link href="https://dasho.dev/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Getting Started with Rollout</title>
+<link>https://dasho.dev/p/0x00-getting-started.html</link>
+<guid>https://dasho.dev/p/0x00-getting-started.html</guid>
+<pubDate>Thu, 05 Mar 2026 11:34:24 +0000</pubDate>
+<description>A guide to setting up and using Rollout to build a static site</description>
+</item>
+</channel>
+</rss>
